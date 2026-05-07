@@ -7,7 +7,7 @@
 
     "gerenciamento": {
 
-        "max_ordens": 2,
+        "max_ordens": 3,
 
         "stop_individual": 30,
 
