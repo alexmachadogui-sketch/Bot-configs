@@ -1,7 +1,7 @@
 {
     "cliente": "alex",
 
-    "modo_operacao": "NORMAL",
+    "modo_operacao": "CONSERVADOR",
 
     "tempo_espera": 5,
 
@@ -46,7 +46,7 @@
 
             "enabled": true,
 
-            "lote": 0.03,
+            "lote": 0.01,
 
             "spread_max": 40,
 
@@ -64,7 +64,7 @@
 
             "lote": 0.01,
 
-            "spread_max": 200,
+            "spread_max": 2000,
 
             "stop": 1500,
 
