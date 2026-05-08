@@ -1,7 +1,7 @@
 {
     "cliente": "alex",
 
-    "modo_operacao": "CONSERVADOR",
+    "modo_operacao": "AGRESSIVO",
 
     "tempo_espera": 5,
 
